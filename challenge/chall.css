@@ -1,0 +1,78 @@
+@font-face {
+    font-family: "montserrat";
+    src: url(Montserrat.ttf);
+}
+body{
+    background: linear-gradient(297.24deg, #E8EFFC 8.25%, #FFFFFF 91.76%);
+    height: 100vh;
+}
+.container1{
+    width: 337px;
+    height: 572px;
+    background-image: url(./pictures/Rectangle\ \(1\).svg);
+    margin-left: 551px;
+    margin-top: 90px;
+}
+.box{
+    display: flex;
+    width: 192px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 73px;
+}
+.box1{
+    display: flex;
+    width: 200.41px;
+    justify-content: space-between;
+    margin-left: 64.62px;
+    align-items: center;
+}
+h1{
+    font-size: 14px;
+    font-family: "Montserrat";
+    color: #55617D;
+    font-weight: 400;
+}
+h2{
+    font-size: 34px;
+    font-family: "Montserrat";
+    color: #55617D;
+    font-weight: 400;
+}
+.container2{
+    position: absolute;
+    width: 298px;
+    height: 502px;
+    background-color: #E3004F;
+    top: 107px;
+    left: 280px;
+    text-align: center;
+}
+.h1{
+    color: #FFFFFF;
+    font-size: 33px;
+    font-weight: 400;
+    font-family: "Montserrat";
+    letter-spacing: 1.43478px;
+}
+.h2{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "montserrat";
+}
+.img2{
+    position: absolute;
+    top: 370px;
+    left: 223px;
+}
+.img3{
+    position: absolute;
+    top: 223px;
+    left: 170px;
+}
+.img4{
+    position: absolute;
+    top: 286px;
+    left: 40px;
+}
